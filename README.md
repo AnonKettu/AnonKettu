@@ -1,6 +1,3 @@
-## I am AnonKettu
-- 🌱 | I’m currently learning C# And C++ more
-
 <h2 align="center">Programming languages.</h2>
 <p align="center">
   <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D"></a> 
@@ -25,6 +22,9 @@
   <img alt="VSCODE" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
 </p>
-### INFO
-- :) | I MAKE RESOURCES WITH ❤
-- CTRL+C/V | If you copypaste something credit me 
+  <h2 align="center">INFO</h2>'
+   <p align="center">
+  - :) | I MAKE RESOURCES WITH ❤
+   - CTRL+C/V | If you copypaste something credit me 
+</p>
+
