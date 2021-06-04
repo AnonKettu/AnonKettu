@@ -28,8 +28,8 @@
   - CTRL+C/V | If you copypaste something credit me 
 </p>
 
- <h2 align="center">AnonKettu</h2>'
+ <h2 align="center">AnonRobAta</h2>'
    <p align="center">
-  : I am anon guy. : I also edit videos with davinci resolve : 
+  : I am anon guy. I also edit videos with davinci resolve 
 </p>
 
